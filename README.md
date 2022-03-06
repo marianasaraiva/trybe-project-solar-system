@@ -26,4 +26,4 @@ Neste projeto foi desenvolvido um modelo do sistema solar! Ao utilizar essa apli
 
 1. Iniciar o projeto utilizando o `npm start`;
 
-2. Acesse pelo link GitPages: 
+2. Acesse pelo link GitPages: https://trybe-project-solar-system.vercel.app/
