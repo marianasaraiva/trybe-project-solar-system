@@ -1,3 +1,50 @@
 .App {
   text-align: center;
 }
+
+.title {
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  color: rgb(238, 245, 177);
+}
+
+img {
+  width: 300px;
+  opacity: 0.9;
+}
+
+img:hover {
+  width: 330px;
+  opacity: 1.0;
+}
+
+.planets {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.missions {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.mission-cards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+  height: 250px;
+  text-align: center;
+  border-radius: 5px;
+  background-color: rgb(97, 88, 9);
+  color: white;
+  opacity: 0.8;
+}
+
+.mission-cards:hover {
+  opacity: 1.0;
+}
